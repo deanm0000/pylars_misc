@@ -2,9 +2,6 @@
 This is a light wrapper around polars with various methods and libraries monkey 
 patched in.  It's all python specific so isn't really an improvement to the Rust
 based underlying polars package.
-
-
-
 """
 
 import polars as pl
